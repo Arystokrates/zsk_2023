@@ -38,9 +38,9 @@ Route::get('/city', function(){
     return view('city');
 });
 
-Route::redirect(uri:'/', destination:'/city_old');
+// Route::redirect(uri:'/', destination:'/city_old');
 
-Route::redirect(uri:'/', destination:'/city', status:301);
+// Route::redirect(uri:'/', destination:'/city', status:301);
 
 Route::get('/status', function(){
     return response()->json([
@@ -68,6 +68,52 @@ Route::get('pages/{x}', function($x){
     ];
     return $info[$x];
 });
+
+// Route::get("/address/{city}", function(string $city){
+//     echo "Miasto: $city";
+// });
+
+// Route::get("/address1/{city}/{street}", function(string $city, string $street){
+//     echo <<< ADDRESS
+//     Miasto: $city<br>
+//     Ulica: $street
+// ADDRESS;
+// });
+
+// Route::get("/address2/{city}/{street}/{zipCode}", function(string $city, string $street, int $zipCode){
+//     $zipCode = substr($zipCode, 0, 2).'-'.substr($zipCode, 2, 3);
+//     echo <<< ADDRESS
+//     Kod pocztowy: $zipCode <br>
+//     Miasto: $city<br>
+//     Ulica: $street
+// ADDRESS;
+// });
+
+// Route::get("/address3/{city}/{street}/{zipCode?}", function(string $city, string $street, int $zipCode = null){
+//     if (is_null($zipCode)) $zipCode = "Noł dejta";
+//     else $zipCode = substr($zipCode, 0, 2).'-'.substr($zipCode, 2, 3);
+//     echo <<< ADDRESS
+//     Kod pocztowy: $zipCode <br>
+//     Miasto: $city<br>
+//     Ulica: $street
+// ADDRESS;
+// });
+
+Route::get("/address4/{city?}/{street?}/{zipCode?}", function(string $city="-", string $street="-", int $zipCode = null){
+    if (is_null($zipCode)) $zipCode = "Noł dejta";
+    else $zipCode = substr($zipCode, 0, 2).'-'.substr($zipCode, 2, 3);
+    echo <<< ADDRESS
+    Kod pocztowy: $zipCode <br>
+    Miasto: $city<br>
+    Ulica: $street
+ADDRESS;
+})->name('x');
+
+Route::redirect('stronaglowna', '/');
+Route::redirect("xyz", "stronaglowna");
+Route::redirect("/danemiasta/{city?}/{street?}/{zipCode?}", "/address4/{city?}/{street?}/{zipCode?}");
+
+
 
 // ------
 
