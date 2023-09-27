@@ -1,0 +1,50 @@
+  124  php artisan route:list
+  125  php artisan route:list v
+  126  php artisan route:list -v
+  127  clear
+  128  php artisan route:list --path=city
+  129  php artisan route:list --path=city -v
+  130  php artisan route:list -v --path=city 
+  131  php artisan route:list -v --path=password 
+  132  php artisan route:list --path=password 
+  133  php artisan route:list 
+  134  php artisan route:list --except-vendor
+  135  php artisan route:list --except-only-vendor
+  136  php artisan route:list --except--only-vendor
+  137  php artisan route:list --only-vendor
+  138  php artisian
+  139  php artisan serv
+  140  git clone https://github.com/AMSusz/zsk_2023
+  141  php artisan serv
+  142  cd /c/xampp3/htdocs/gitsusz/zsk_2023/project_1
+  143  php artisan serv
+  144  git config credentials user.name "AMSusz"
+  145  git -global -user "AMSusz"
+  146  git global -user "AMSusz"
+  147  git --global user "AMSusz"
+  148  history
+  149  git config --global user.name "AMSusz"
+  150  git config --global user.email "casimir3thegreat@gmail.com"
+  151  mkdir gitlab
+  152  mkdir git_lab
+  153  ls
+  154  cd git_lab
+  155  cls
+  156  clear
+  157  echo "Maja Pawelek" > file
+  158  ls
+  159  cat file 
+  160  echo "new line" >> file
+  161  cat file
+  162  vim file 
+  163  cat file
+  164  vim file
+  165  ls -l
+  166  ls -l >file
+  167  vim file
+  168  git config --global --list
+  169  git config --global --edit
+  170  history | tail -2
+  171  histor | tail -50 > historia
+  172  histori | tail -50 > history
+  173  history | tail -50 > historia
