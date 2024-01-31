@@ -1,0 +1,15 @@
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.AssemblyInfoInputs.cache
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.AssemblyInfo.cs
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.sourcelink.json
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\bin\Debug\net8.0\interfejsy_book.exe
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\bin\Debug\net8.0\interfejsy_book.deps.json
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\bin\Debug\net8.0\interfejsy_book.runtimeconfig.json
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\bin\Debug\net8.0\interfejsy_book.dll
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\bin\Debug\net8.0\interfejsy_book.pdb
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.dll
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\refint\interfejsy_book.dll
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.pdb
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\interfejsy_book.genruntimeconfig.cache
+C:\Users\student\Documents\3101\zsk_2023\interfejsy_book\obj\Debug\net8.0\ref\interfejsy_book.dll
