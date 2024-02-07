@@ -1,0 +1,15 @@
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.AssemblyInfoInputs.cache
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.AssemblyInfo.cs
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.sourcelink.json
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\bin\Debug\net8.0\0702delegaty.exe
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\bin\Debug\net8.0\0702delegaty.deps.json
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\bin\Debug\net8.0\0702delegaty.runtimeconfig.json
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\bin\Debug\net8.0\0702delegaty.dll
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\bin\Debug\net8.0\0702delegaty.pdb
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.dll
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\refint\0702delegaty.dll
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.pdb
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\0702delegaty.genruntimeconfig.cache
+C:\Users\student\Documents\something\zsk_2023\csharp\0702delegaty\0702delegaty\obj\Debug\net8.0\ref\0702delegaty.dll
