@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.AssemblyInfo.cs
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.sourcelink.json
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\bin\Debug\net8.0\delegaty4_2.exe
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\bin\Debug\net8.0\delegaty4_2.deps.json
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\bin\Debug\net8.0\delegaty4_2.runtimeconfig.json
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\bin\Debug\net8.0\delegaty4_2.dll
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\bin\Debug\net8.0\delegaty4_2.pdb
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.dll
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\refint\delegaty4_2.dll
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.pdb
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\delegaty4_2.genruntimeconfig.cache
+C:\Users\student\Downloads\2802\zsk_2023\csharp\delegaty4_2\obj\Debug\net8.0\ref\delegaty4_2.dll

@@ -13,11 +13,11 @@ namespace delegaty4_2
         {
             return a || b;
         }
-        static Xor(bool a, bool b)
+        static bool Xor(bool a, bool b)
         {
             return a ^ b;
         }
-        static bool Not(bool a)
+        static bool Not(bool a, bool b)
         {
             return !a;
         }
@@ -55,6 +55,20 @@ namespace delegaty4_2
         {
             bool x = GetBoolFromUser();
             bool y = GetBoolFromUser();
+
+            Logic and = new Logic(And);
+            Logic or = new Logic(Or);
+            Logic xor = new Logic(Xor);
+            Logic not = new Logic(Not);
+
+            System.Console.WriteLine("And: ");
+            DisplayResult(and, x, y);
+            System.Console.WriteLine("Or: ");
+            DisplayResult(or, x, y);
+            System.Console.WriteLine("Xor: ");
+            DisplayResult(xor, x, y);
+            System.Console.WriteLine("Not: ");
+            DisplayResult(not, x, y);
         }
     }
 }
