@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "5_1_1_eventy/1.0.0": {
+        "runtime": {
+          "5_1_1_eventy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5_1_1_eventy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

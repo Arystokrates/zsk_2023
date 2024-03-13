@@ -1,0 +1,15 @@
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\bin\Debug\net8.0\5_1_1_eventy.exe
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\bin\Debug\net8.0\5_1_1_eventy.deps.json
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\bin\Debug\net8.0\5_1_1_eventy.runtimeconfig.json
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\bin\Debug\net8.0\5_1_1_eventy.dll
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\bin\Debug\net8.0\5_1_1_eventy.pdb
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.AssemblyInfo.cs
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.sourcelink.json
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.dll
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\refint\5_1_1_eventy.dll
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.pdb
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\5_1_1_eventy.genruntimeconfig.cache
+C:\Users\student\Downloads\1303\zsk_2023\csharp\5_1_1_eventy\obj\Debug\net8.0\ref\5_1_1_eventy.dll
